@@ -23,6 +23,8 @@ Provide the absolute path of the softwares and relevant folders in runinfo.txt f
 Please note that runinfo_example.txt is prepared in our system. Your system specific location should be in runinfo.txt.
 DO NO ALTER THE SEQEUNCE AND THE FORMAT OF the runinfo.txt file.
 
+bin/Model/loop.tar.gz and bin/Model/nonloop.tar.gz files need to be extracted.
+
 The exec.py code and runinfo.txt file should be in the same location.
 
 Place the PDB files whose foldability you want to determine in the INPUT folder using the following naming convention- name_StartingDeletionPosition_EndingDeletionPosition.pdb.
