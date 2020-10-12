@@ -1,0 +1,7 @@
+Index | Protein Name | Start deletion position | End deletion position | Result
+===========================================================================================================================================
+1	file1B			75			83		The probability of the protien folding to its native fold after deletion is 39.24%
+2	file2C			20			27		The probability of the protien folding to its native fold after deletion is 53.290000000000006%
+3	file3B			1			5		You can not delete first amino acid of PDB
+4	file4X			85			90		The probability of the protien folding to its native fold after deletion is 41.14%
+5	file5B			50			55		Chain break in your PDB

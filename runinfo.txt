@@ -1,0 +1,6 @@
+Workdir	
+Inpdir	
+Bindir	
+Stride	
+HBplus	
+Foldx	

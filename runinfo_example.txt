@@ -1,0 +1,6 @@
+Workdir		/home/amit/Documents/Final_project/PROFOUND/bin/workdir
+Inpdir		/home/amit/Documents/Final_project/PROFOUND/INPUT_example
+Bindir	 	/home/amit/Documents/Final_project/PROFOUND/bin
+Stride	  	/home/amit/Desktop/MTP/stride/stride
+HBplus	  	/home/amit/Desktop/MTP/HB_plus/hbplus
+Foldx           /home/Desktop/MTP/foldx
